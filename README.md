@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+
 
 # 🤖 Robô Interativo - Animações e Controle de Estados
 
