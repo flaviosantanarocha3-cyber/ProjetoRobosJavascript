@@ -4,6 +4,7 @@
 
 Aplicação web interativa desenvolvida com HTML, CSS e JavaScript que simula o funcionamento e os estados de um robô. O projeto utiliza manipulação do DOM para alternar imagens e aplicar classes de animações dinâmicas a cada interação do usuário.
 
+![alt text](robo-comprimida.webp)
 ---
 
 ## ✨ Funcionalidades
